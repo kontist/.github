@@ -4,11 +4,12 @@
 
 
 ### Developer Portal
-
-Discover all the services, like GraphQL API and Playground, in our [Developer Portal](https://kontist.dev) so that you can build or integrate your application with Kontist.
+Discover all the services, like GraphQL API and Playground, in our [Developer Portal](https://kontist.dev), so that you can build or integrate your application with Kontist.
 
 
 ### SDK
 We provide a JavaScript SDK for connecting to Kontist using OAuth2 and GraphQL. Please see https://kontist.dev/sdk for details.
 
 
+### Jobs
+And we are looking for fellow engineers! See our [open positions](https://kontist.com/careers/).
