@@ -1,8 +1,6 @@
 ## Care-free tax handling and banking for freelancers: http://kontist.com
 
-![An video showing our application width transactions, budget control, paying and receiving money. Explaining the tax service.](https://kontist-demo.cdn.prismic.io/kontist-demo/1fccffd7-c00c-4481-beb8-8e005b63bc61_en_homepage_hero_solution_05.mp4)
-
-https://kontist-demo.cdn.prismic.io/kontist-demo/1fccffd7-c00c-4481-beb8-8e005b63bc61_en_homepage_hero_solution_05.mp4
+https://user-images.githubusercontent.com/6780316/135087674-9bab8825-62f1-481c-8b92-f5adb697184d.mp4
 
 
 ### Developer Portal
