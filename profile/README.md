@@ -1,4 +1,4 @@
-## Care-free tax handling and banking for freelancers: http://kontist.com
+## Care-free tax handling and banking for freelancers: https://kontist.com
 
 ![Kontist Logotype Purple Transparent](https://user-images.githubusercontent.com/6780316/135088186-4626d8bb-9ad0-4a8a-b130-8474035e61a7.png)
 
